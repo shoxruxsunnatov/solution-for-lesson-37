@@ -51,7 +51,7 @@ CREATE TABLE "Groups" (
 
 CREATE TABLE "Regions" (
     id serial,
-    region_name    varchar(200)        not null
+    region_name    varchar(200)       not null
 );
 
 CREATE TABLE "Departments" (
