@@ -1,3 +1,4 @@
+```sql
 CREATE TABLE "Students" (
     id             serial,
     first_name     varchar(100)        not null,
@@ -60,3 +61,4 @@ CREATE TABLE "Subjects" (
     id serial,
     subject_name   varchar(200)       not null
 );
+```
