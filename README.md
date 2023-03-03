@@ -62,3 +62,22 @@ CREATE TABLE "Subjects" (
     subject_name   varchar(200)       not null
 );
 ```
+## Departments
+![image](https://user-images.githubusercontent.com/81769242/222697534-3200b24a-0995-454d-ab95-f19c91580a32.png)
+
+## Groups
+![image](https://user-images.githubusercontent.com/81769242/222697622-3fdcb55b-0050-4fca-9252-e6c795e9b38e.png)
+
+## Regions
+![image](https://user-images.githubusercontent.com/81769242/222697713-70e6b907-64fe-4b4d-a538-3ada47c81cf0.png)
+
+## Staff
+![image](https://user-images.githubusercontent.com/81769242/222697796-e0775b4f-3e35-4f4f-8d8a-dea0920f4e12.png)
+
+## Subjects
+![image](https://user-images.githubusercontent.com/81769242/222697888-07d4f609-8847-4c65-ae67-ad7d8d4ad3ed.png)
+
+## Teachers
+![image](https://user-images.githubusercontent.com/81769242/222697944-b7df904d-a017-4a49-875e-06e2a5e5f5ab.png)
+
+
