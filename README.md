@@ -78,6 +78,6 @@ CREATE TABLE "Subjects" (
 ![image](https://user-images.githubusercontent.com/81769242/222697888-07d4f609-8847-4c65-ae67-ad7d8d4ad3ed.png)
 
 ## Teachers
-![image](https://user-images.githubusercontent.com/81769242/222697944-b7df904d-a017-4a49-875e-06e2a5e5f5ab.png)
+![image](https://user-images.githubusercontent.com/81769242/222698241-bbcfebc2-3d71-470b-b69f-7e2c2487b418.png)
 
 
